@@ -8,4 +8,4 @@ Project #1: Build a Regression Model in Keras: Experimenting on a neural network
 
 Project #2: Cervical Cancer Risk Prediction using XGBoost model
 
-Project #3: Rain Prediction Classifier 
+Project #3: Rain Prediction Classifier using 5 classification algorithms: Linear Regression, KNN, Decision Trees, Logistic Regression, and Support Vector Machine (SVM). It contains code snippets to perform imputation and handle missing values. The dataset used is specifically for Sydney. The folder also contains a dataset containing more cities for futher experimentation. 
